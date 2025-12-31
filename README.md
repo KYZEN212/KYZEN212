@@ -5,11 +5,12 @@
 ![Profile views](https://komarev.com/ghpvc/?username=KYZEN212&color=blue)
 
 ## 🏆 Top Projects
-- [Currency Exchange Website](https://github.com/Sir-Naegon/Currency-Exchange-Website) - Modern currency exchange platform.
+- [Currency Exchange Website](https://github.com/KYZEN212/currencyExchangePlatform) - Modern currency exchange platform.
 - [Internet Cafe Admin](https://github.com/KYZEN212/Internet_Cafe_System) - Developed a real-time Internet Café Management System with server-controlled client PCs and integrated food ordering using Java, JavaFX, and MySQL.
 
-## 📫 Connect
+<!-- 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](your-linkedin-url)
+-->
 
 - 🌱 I’m currently learning ... ReactJS & NodeJS
 <!--
